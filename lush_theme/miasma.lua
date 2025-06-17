@@ -158,7 +158,7 @@ local theme = lush(function(injected_functions)
     Macro                                      { PreProc },
     PreCondit                                  { PreProc },
     sym"@preproc"                              { PreProc },
-    Type                                       { fg="#78834b", gui="bold", },
+    Type                                       { fg="#bb7744", gui="bold", },
     StorageClass                               { Type },
     Structure                                  { Type },
     Typedef                                    { Type },
