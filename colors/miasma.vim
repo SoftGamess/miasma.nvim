@@ -184,7 +184,7 @@ hi! link LspCodeLens Comment
 hi! link @lsp.type.comment Comment
 hi! link @lsp.type.decorator Function
 hi! link @lsp.type.enumMember Constant
-hi! link @lsp.type.function Function
+hi! link @lsp.type.function Type
 hi! link @lsp.type.method Function
 hi! link @lsp.type.parameter Identifier
 hi! link @lsp.type.property Identifier
