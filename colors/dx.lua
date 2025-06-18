@@ -35,8 +35,8 @@ Typedef = {link = "Type"},
 vim.cmd("highlight clear")
 vim.cmd("set background=dark")
 vim.cmd("set t_Co=256")
-vim.cmd("let g:colors_name='miasma'")
-vim.cmd("let colors_name='miasma'")
+vim.cmd("let g:colors_name='dx'")
+vim.cmd("let colors_name='dx'")
 
 for group, attrs in pairs(colors) do
   vim.api.nvim_set_hl(0, group, attrs)
