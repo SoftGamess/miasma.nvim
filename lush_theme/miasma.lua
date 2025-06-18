@@ -128,7 +128,7 @@ local theme = lush(function(injected_functions)
     sym"@function"                             { Function },
     sym"@method"                               { Function },
     sym"@lsp.type.decorator"                   { Function },
-    sym"@lsp.type.function"                    { Function },
+    sym"@lsp.type.function"                    { Type },
     sym"@lsp.type.method"                      { Function },
     Identifier                                 { fg="#d7c483", },
     sym"@text.reference"                       { Identifier },
